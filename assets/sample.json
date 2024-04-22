@@ -1,0 +1,31 @@
+{
+    "nama": "Rosita - Aniandari",
+    "age":16,
+    "hoby": [
+        "Menulis",
+        "Membaca novel",
+        "Demus"
+    ],
+    "github": {
+        "username": "@rositanndr",
+        "repositories": 2897,
+        "isGDE": true
+    },
+    "articles": [
+        {
+            "id": 1,
+            "title": "God of war",
+            "subtitle": "that is movie"
+        },
+        {
+            "id": 2,
+            "title": "Harvest moon",
+            "subtitle": "that is game"
+        },
+        {
+            "id": 3,
+            "title": "Avanger",
+            "subtitle": "that is hero"
+        }
+    ]
+}
